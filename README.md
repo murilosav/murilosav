@@ -36,7 +36,7 @@ Front-end Developer.
   <img align="center" src="https://img.shields.io/badge/-murilodeosouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://codepen.io/murilodeosouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-savitarms-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-murilodeosouza-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 </p>
 
