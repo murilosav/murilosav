@@ -32,14 +32,11 @@ Front-end Developer.
 <a href="https://twitter.com/savitarx" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-savitarx-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://instagram.com/savitarms" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-savitarms-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://codepen.io/savitarms" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-savitarms-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://linkedin.com/in/murilodeosouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-murilodeosouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://codepen.io/murilodeosouza" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-savitarms-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 </p>
 
