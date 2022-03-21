@@ -8,9 +8,9 @@ Portfólio: <a href="https://savitarms.github.io/portfolio/">murilo.portfolio</a
 
 - 🖥 I’m currently jobless
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **Python, JavaScript, HTML, CSS**
 
-- 📚 I'm learning at the moment PHP, MySQL, C++
+- 📚 I'm learning at the moment VueJS, PHP, MySQL
 
 <br><br>
 
