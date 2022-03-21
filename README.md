@@ -1,6 +1,7 @@
 <img align="right" height="580em" src="https://i.imgur.com/hcj8CqT.jpg" title="source: imgur.com" />
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Murilo Souza</h1>
 Front-end Developer. 
+<br>
 Portfólio: savitarms.github.io/portfolio/
 
 - 👨‍💻 Junior Web Developer
