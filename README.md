@@ -4,13 +4,13 @@ Front-end Developer.
 <br>
 Portfólio: <a href="https://savitarms.github.io/portfolio/">murilo.portfolio</a>
 
-- 👨‍💻 Junior Web Developer
+- 👨‍💻 Web Developer / Software Engineer
 
 - 🖥 I’m currently jobless
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS**
 
-- 📚 I'm learning at the moment VueJS, PHP, MySQL
+- 📚 I'm learning at the moment VueJS
 
 <br><br>
 
