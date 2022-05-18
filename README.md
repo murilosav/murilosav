@@ -10,7 +10,7 @@ Portfólio: <a href="https://savitarms.github.io/portfolio/">murilo.portfolio</a
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS**
 
-- 📚 I'm learning at the moment VueJS
+- 📚 I'm learning at the moment VueJS, Django
 
 <br><br>
 
