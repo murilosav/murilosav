@@ -1,5 +1,5 @@
 <img align="right" src="https://i.imgur.com/hcj8CqT.jpg" title="source: imgur.com" />
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" style:"width: 30px; height: 30px";>, I'm Murilo Souza</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" style:"width: 30px; height: 30px;">, I'm Murilo Souza</h1>
 Front-end Developer. 
 <br>
 Portfólio: <a href="https://savitarms.github.io/portfolio/">murilo.portfolio</a>
