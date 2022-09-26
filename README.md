@@ -1,10 +1,9 @@
 <img align="right" src="https://i.imgur.com/hcj8CqT.jpg" title="source: imgur.com" />
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">, I'm Murilo Souza</h1>
-Full Stack Developer. 
 <br>
 Portfolio: <a href="https://murilosav.github.io/portfolio/">murilo.souza</a>
 
-- 👨‍💻 Full Stack Web Developer
+- 👨‍💻 Full Stack Developer
 
 - 🏠 I'm available for freelancer
 
