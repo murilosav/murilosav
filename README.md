@@ -1,4 +1,4 @@
-<img align="right" margin-top="20" src="https://i.imgur.com/hcj8CqT.jpg" title="source: imgur.com" />
+<img align="right" margin-bottom="30" src="https://i.imgur.com/hcj8CqT.jpg" title="source: imgur.com" />
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">, I'm Murilo Souza</h1>
 <br>
 Portfolio: <a href="https://murilosav.github.io/portfolio/">murilo.souza</a>
