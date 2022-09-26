@@ -35,25 +35,10 @@ Portfólio: <a href="https://murilosav.github.io/portfolio/">murilo.souza</a>
 <a href="https://twitter.com/savitarx" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-savitarx-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/murilodeosouza" target="_blank">
+<a href="https://www.instagram.com/murilo.sav/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-murilo.sav-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+ <a href="https://linkedin.com/in/murilodeosouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-murilodeosouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://codepen.io/murilodeosouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-murilodeosouza-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 </p>
-
-<!--
-**savitarms/savitarms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
