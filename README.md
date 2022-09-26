@@ -1,16 +1,12 @@
 <img align="right" src="https://i.imgur.com/hcj8CqT.jpg" title="source: imgur.com" />
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">, I'm Murilo Souza</h1>
-Front-end Developer. 
+Full Stack Developer. 
 <br>
-Portfólio: <a href="https://murilosav.github.io/portfolio/">murilo.souza</a>
+Portfolio: <a href="https://murilosav.github.io/portfolio/">murilo.souza</a>
 
-- 👨‍💻 Web Developer / Software Engineer
+- 👨‍💻 Full Stack Web Developer
 
-- 🖥 I’m currently jobless
-
-- 💬 Ask me about **Python, JavaScript, HTML, CSS**
-
-- 📚 I'm learning at the moment VueJS, Django
+- 🏠 I'm available for freelancer
 
 <br><br>
 
