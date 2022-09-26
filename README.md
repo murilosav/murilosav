@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">, I'm Murilo Souza</h1>
 Front-end Developer. 
 <br>
-Portfólio: <a href="https://savitarms.github.io/portfolio/">murilo.portfolio</a>
+Portfólio: <a href="https://savitarms.github.io/portfolio/">murilo.souza</a>
 
 - 👨‍💻 Web Developer / Software Engineer
 
