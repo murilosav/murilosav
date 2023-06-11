@@ -32,6 +32,6 @@ Portfolio: <a href="https://murilosav.github.io/portfolio/">murilosav</a>
   <img align="center" src="https://img.shields.io/badge/-murilo.sav-05122A?style=flat&logo=instagram" alt="Instagram"/>
 </a>
  <a href="https://www.linkedin.com/in/murilosav/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-murilodeosouza-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
+  <img align="center" src="https://img.shields.io/badge/-murilosav-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
 </a>
 </p>
