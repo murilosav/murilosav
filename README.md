@@ -25,13 +25,15 @@ Portfolio: <a href="https://murilosav.github.io/portfolio/">murilosav</a>
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/savitarx" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-savitarx-05122A?style=flat&logo=twitter" alt="Twitter"/>  
-</a>
 <a href="https://www.instagram.com/murilo.sav/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-murilo.sav-05122A?style=flat&logo=instagram" alt="Instagram"/>
 </a>
- <a href="https://www.linkedin.com/in/murilosav/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-murilosav-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
+<a href="https://twitter.com/savitarx" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-savitarx-05122A?style=flat&logo=twitter" alt="Twitter"/>  
 </a>
-</p>
+<a href="https://t.me/murilosav" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-murilosav-05122A?style=flat&logo=telegram" alt="Telegram"/>
+</a>
+<a href="https://api.whatsapp.com/send/?phone=5542998685557" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Murilo%20Souza-05122A?style=flat&logo=whatsapp" alt="WhatsApp"/>
+</a>
