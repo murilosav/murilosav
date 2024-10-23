@@ -29,7 +29,7 @@ Portfolio: <a href="https://murilosav.github.io/portfolio/">murilosav</a>
   <img align="center" src="https://img.shields.io/badge/-murilo.sav-05122A?style=flat&logo=instagram" alt="Instagram"/>
 </a>
 <a href="https://twitter.com/savitawp" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-savitarx-05122A?style=flat&logo=twitter" alt="Twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-savitarwp-05122A?style=flat&logo=x" alt="X"/>  
 </a>
 <a href="https://t.me/murilosav" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-murilosav-05122A?style=flat&logo=telegram" alt="Telegram"/>
