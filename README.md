@@ -24,16 +24,17 @@ Portfolio: <a href="https://murilosav.github.io/portfolio/">murilosav</a>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://www.instagram.com/murilo.sav/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-murilo.sav-05122A?style=flat&logo=instagram" alt="Instagram"/>
-</a>
-<a href="https://twitter.com/savitawp" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-savitarwp-05122A?style=flat&logo=x" alt="X"/>  
-</a>
-<a href="https://t.me/murilosav" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-murilosav-05122A?style=flat&logo=telegram" alt="Telegram"/>
-</a>
-<a href="https://api.whatsapp.com/send/?phone=5542998685557" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Murilo%20Souza-05122A?style=flat&logo=whatsapp" alt="WhatsApp"/>
-</a>
+<p align="left" style="background: yellow;">
+  <a href="https://www.instagram.com/murilo.sav/" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/-murilo.sav-05122A?style=flat&logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/savitawp" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/-savitarwp-05122A?style=flat&logo=x" alt="X"/>  
+  </a>
+  <a href="https://t.me/murilosav" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/-murilosav-05122A?style=flat&logo=telegram" alt="Telegram"/>
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5542998685557" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://img.shields.io/badge/-Murilo%20Souza-05122A?style=flat&logo=whatsapp" alt="WhatsApp"/>
+  </a>
+</p>
