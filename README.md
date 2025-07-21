@@ -2,7 +2,7 @@
 <p align="center"><code>Full Stack Web Developer</code> • <code>Django Enthusiast</code> • <code>Freelancer</code></p>
 
 <p align="center">
-  <a href="https://murilosav.github.io/portfolio" target="_blank">🌐 Portfólio</a> • 
+  <a href="https://murilosav.github.io/portfolio" target="_blank">🌐 Portfolio</a> • 
   <a href="https://t.me/murilos4v">Telegram</a> • 
   <a href="https://www.instagram.com/murilos4v">Instagram</a> • 
   <a href="https://x.com/murilos4v">Twitter</a> • 
@@ -16,16 +16,16 @@
 
 ### ✦ Tech Stack
 
-**Linguagens & Frameworks**  
+**Languages & Frameworks**  
 Python • Django • DRF • JavaScript • Celery  
 
 **Frontend & Layout**  
 HTML • CSS • Responsive Design
 
-**Banco de Dados & Cache**  
+**Database & Cache**  
 PostgreSQL • Redis  
 
-**Infraestrutura & DevOps**  
+**Infrastructure & DevOps**  
 Docker • OpenLiteSpeed • Nginx • Ubuntu <br>
 WebSockets • Webhooks • Cloudflare
 
@@ -33,7 +33,7 @@ WebSockets • Webhooks • Cloudflare
 
 ---
 
-### ✦ Contato
+### ✦ Contact
 
 [![Instagram](https://img.shields.io/badge/-murilos4v-05122A?style=flat&logo=instagram)](https://www.instagram.com/murilos4v/)
 [![Twitter](https://img.shields.io/badge/-murilos4v-05122A?style=flat&logo=x)](https://x.com/murilos4v)
