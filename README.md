@@ -17,7 +17,7 @@
 ### ✦ Tech Stack
 
 **Languages & Frameworks**  
-Python • Django • DRF • JavaScript • Celery  
+Python • Django • Flask • DRF • JavaScript • Celery  
 
 **Frontend & Layout**  
 HTML • CSS • Responsive Design
