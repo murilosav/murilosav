@@ -3,10 +3,6 @@
 
 <p align="center">
   <a href="https://murilosav.github.io/portfolio" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://t.me/murilos4v">Telegram</a> • 
-  <a href="https://www.instagram.com/murilos4v">Instagram</a> • 
-  <!--<a href="https://x.com/murilos4v">Twitter</a> • 
-  <a href="https://api.whatsapp.com/send/?phone=5542998685557">Whatsapp</a> -->
 </p>
 
 
@@ -38,7 +34,7 @@ WebSockets • Webhooks • Cloudflare
 [![Instagram](https://img.shields.io/badge/-murilos4v-05122A?style=flat&logo=instagram)](https://www.instagram.com/murilos4v/)
 <!-- [![Twitter](https://img.shields.io/badge/-murilos4v-05122A?style=flat&logo=x)](https://x.com/murilos4v) -->
 [![Telegram](https://img.shields.io/badge/-murilos4v-05122A?style=flat&logo=telegram)](https://t.me/murilos4v)
-[![WhatsApp](https://img.shields.io/badge/-Murilo%20Souza-05122A?style=flat&logo=whatsapp)](https://api.whatsapp.com/send/?phone=5542998685557)
+<!-- [![WhatsApp](https://img.shields.io/badge/-Murilo%20Souza-05122A?style=flat&logo=whatsapp)](https://api.whatsapp.com/send/?phone=5542998685557) -->
 
 ---
 
