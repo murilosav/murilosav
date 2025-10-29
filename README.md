@@ -2,7 +2,7 @@
 <p align="center"><code>Full Stack Web Developer</code> • <code>Django Enthusiast</code> • <code>Freelancer</code></p>
 
 <p align="center">
-  <a href="https://murilosav.github.io/portfolio" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://murilosav.github.io/portfolio" target="_blank">🌐 Portfolio</a>
 </p>
 
 
